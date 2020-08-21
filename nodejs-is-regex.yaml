@@ -1,0 +1,5 @@
+git_url: https://github.com/ljharb/is-regex
+version_control: github
+src_repo: ljharb/is-regex
+tag_prefix: "^v"
+seperator: "."
